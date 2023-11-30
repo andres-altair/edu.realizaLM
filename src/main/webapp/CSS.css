@@ -1,0 +1,6 @@
+@charset "UTF-8";
+
+.boxengloba{
+	box-sizing: border-box;
+	border: black 1px;
+}
